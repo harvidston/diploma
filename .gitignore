@@ -1,0 +1,5 @@
+venv
+# dependencies
+client/node_modules
+# production
+client/build
